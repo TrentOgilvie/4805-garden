@@ -2,4 +2,5 @@
 layout: default
 ---
 # Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+
+This is the digital garden for [Prof. Shawn Graham's seminar on AI in/and/of History](https://hist4805.netlify.app/).
