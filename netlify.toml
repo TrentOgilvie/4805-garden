@@ -1,4 +1,3 @@
 [build]
   publish = "public"
-  command = "npm install"
-  command = "npm run build:prod"
+  command = "npm run build"
