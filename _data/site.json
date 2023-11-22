@@ -1,6 +1,6 @@
 {
-    "title": "John Lemmon",
-    "desc": "1-2 sentences about the site (optional)",
-    "author": "John Lemmon",
-    "baseurl": "https://eleventy-garden.netlify.app"
+    "title": "Digital Garden for HIST4805 Fall and Winter at Carleton U",
+    "desc": "This is where our free-writing will go",
+    "author": "Graham et al. 2024/25",
+    "baseurl": "https://4805-garden.netlify.app"
 }
