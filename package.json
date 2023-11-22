@@ -2,11 +2,18 @@
   "name": "eleventy-garden",
   "version": "1.0.0",
   "description": "A starter site for building a mind garden in eleventy.",
-  "scripts": {
-    "start": "eleventy --serve --quiet",
-    "compile": "eleventy"
+   "scripts": {
+    "clean": "del-cli public",
+    "serve": "cross-env ELEVENTY_ENV=dev npx eleventy --serve",
+    "start": "npm run serve",
+    "prebuild": "npm run clean",
+    "build": "cross-env ELEVENTY_ENV=dev npx eleventy",
+    "build:prod": "npx eleventy",
+    "predeploy": "npm run build:prod",
+    "deploy": "npx firebase deploy",
+    "debug": "cross-env DEBUG=* npx eleventy"
   },
-  "repository": {
+    "repository": {
     "type": "git",
     "url": "git+https://github.com/binyamin/eleventy-garden.git"
   },
