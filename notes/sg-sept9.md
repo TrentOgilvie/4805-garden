@@ -38,7 +38,7 @@ transition: fade
 
 ---
 
-## TODAY'S TOPCIS
+## TODAY'S TOPICS
 
 - so, gpt eh? Used it?
 - markov chains & a [small language model made from matchboxes](https://dcorney.com/thoughts/2023/09/23/matchboxes.html)
