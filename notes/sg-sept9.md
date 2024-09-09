@@ -3,6 +3,8 @@ theme: simple
 transition: fade
 ---
 
+[[index]]
+
 <!-- slide bg="mt-everest.jpg"  data-background-opacity="0.5" -->
 
 # HIST4805a
