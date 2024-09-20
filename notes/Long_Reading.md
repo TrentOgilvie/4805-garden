@@ -1,3 +1,5 @@
+[[index]]
+
 **About the author:** Karawynn Long is a Mexico-based sci-fi and fantasy author and novelist. Very aware of her social standings and intersectionality. 
 
 1. Heuristic as an adjective vs in psychology are very different. IE. learning for yourself, or taking a mental shortcut. 

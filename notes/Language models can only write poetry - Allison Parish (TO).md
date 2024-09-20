@@ -1,4 +1,6 @@
 
+[[index]]
+
 - There is a widespread apocalyptic fear among those who write literature about how these language models have become so strong and able to produce poetry (for example) 
 - Parish goes as far as to claim that computers can only write poetry, but what does that actually mean?
 - Parish goes on to explain how language models are simply based on probabilities assigned to stretches of text. What word is likely to follow any given word.

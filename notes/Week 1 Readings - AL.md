@@ -1,3 +1,5 @@
+[[index]]
+
 There is a human element that is irreplaceable by AI, and an intelligence formed by human experience will never be completely replaceable by AI.
 
 There is no meaning behind the creations of AI, its simply fulfilling a request based on a probability model.
