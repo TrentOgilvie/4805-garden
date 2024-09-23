@@ -1,8 +1,22 @@
 ---
 title: About these notes
 ---
-# About these Notes
-These are some fake notes. Feel free to poke around. You may spot an [[easter egg]]  or two! Also, I like [[food]].
+# Your Notes
+
+### Week 1
+
+[[sg-sept9]]
+### Week 2
+
+[[Language models can only write poetry - Allison Parish (TO)]]
+
+[[Long_Reading]]
+
+[[Week 1 Readings - AL]]
+
+# Colophon
+
+[[building a site with this template|detailed instructions about building a website with this template]]
 
 - Write your notes as text files, and save them as .md.
 - Name your files along the pattern `your-initials-MainNoteIdea-year-month-day.md`
