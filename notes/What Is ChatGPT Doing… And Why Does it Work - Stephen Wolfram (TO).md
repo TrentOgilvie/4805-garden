@@ -1,4 +1,4 @@
-
+[[index]]
 - Essentially what ChatGPT and other [[LLM]]s are doing is asking the question “Given the text so far, what should the next word be?” repeating this again and again after each new word based on the huge corpus of information that it has been trained with through the scrapping of the internet.
 - ChatGPT will not always choose the most probable word however and this is done to avoid the text becoming flat and potentially copying some other text verbatim.
 - Temperature applied to language models like this refers to how likely it is to not pick the most probable next word. Certain temperatures appear to work better for certain types of writing, like 0.8 being best for writing essays. The element of randomness makes the text seem more creative.

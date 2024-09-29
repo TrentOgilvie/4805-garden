@@ -10,9 +10,17 @@ title: About these notes
 
 [[Language models can only write poetry - Allison Parish (TO)]]
 
-[[Long_Reading]]
+[[note on karawynn long]]
 
 [[Week 1 Readings - AL]]
+
+## Week 3
+
+[[On LLM-Clip]]
+
+[[What Is ChatGPT Doing… And Why Does it Work - Stephen Wolfram (TO)]]
+
+[[Thought Experiment in the National Library of Thailand - Emily Bender (TO)]]
 
 # Colophon
 

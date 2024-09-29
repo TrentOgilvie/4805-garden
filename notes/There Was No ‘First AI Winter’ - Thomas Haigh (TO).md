@@ -1,3 +1,4 @@
+[[index]]
 
 - Early AI as a branded effort to receive funding for computer science departments, but before too long was an important actual area of study.
 - Haigh explains that the ‘First AI winter’ (a period of downturn in AI research) is an oversimplification and that AI research continued in this period.

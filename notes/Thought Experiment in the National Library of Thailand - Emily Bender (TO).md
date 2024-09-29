@@ -1,4 +1,4 @@
-
+[[index]]
 - Language models like ChatGPT only produce likely sequences of words, ‘If the text makes sense it is because we, the reader, make sense of it”
 - Systems cannot learn meaning but only form of language.
 - The linguistic forms created by these systems don’t carry meaning except to those who know the linguistic system.

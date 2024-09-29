@@ -1,3 +1,5 @@
+[[index]]
+
 What can we use LLM-Clip for to do historical research? 
 
 The most obvious after exploring LLM-Clip looks like taking archives/datasets/etc. and using vibe searches to find parallels and similarities among images for sorting purposes and finding new connections. But what else can we do with the model?
