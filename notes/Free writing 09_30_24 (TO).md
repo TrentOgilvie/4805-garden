@@ -1,3 +1,5 @@
+[[index]]
+
 Free Writing:
 - With what I understand now regarding AI I realize that I really had no clue what AI actually was before entering the class.
 - My understanding of AI prior to the course was that it scraped the internet 'learned' from what it had collected and then it produced a coherent response.

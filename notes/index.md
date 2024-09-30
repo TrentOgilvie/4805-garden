@@ -22,6 +22,19 @@ title: About these notes
 
 [[Thought Experiment in the National Library of Thailand - Emily Bender (TO)]]
 
+[[Bender, Haigh, Other Observations (A)]]
+
+## Week 4
+
+[[Free writing 09_30_24 (TO)]]
+
+[[There Was No ‘First AI Winter’ - Thomas Haigh (TO)]]
+
+[[Sept 30 - The Map is not the Territory]]
+
+[[The map and the territory - artificial inelligence being taken as actual intelligence]]
+
+
 # Colophon
 
 [[building a site with this template|detailed instructions about building a website with this template]]

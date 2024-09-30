@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80043cbe99798187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -105,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "poetry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,15 +215,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f85cdd4b88619473",
+  "active": "7caa3f33b3ed0adb",
   "lastOpenFiles": [
-    "note on karawynn long.md",
     "index.md",
+    "Bender, Haigh, Other Observations (A).md",
+    "The map and the territory - artificial inelligence being taken as actual intelligence.md",
+    "Sept 30 - The Map is not the Territory.md",
+    "Free writing 09_30_24 (TO).md",
     "What Is ChatGPT Doing… And Why Does it Work - Stephen Wolfram (TO).md",
     "Week 1 Readings - AL.md",
     "Thought Experiment in the National Library of Thailand - Emily Bender (TO).md",
     "There Was No ‘First AI Winter’ - Thomas Haigh (TO).md",
     "On LLM-Clip.md",
+    "note on karawynn long.md",
     "Language models can only write poetry - Allison Parish (TO).md",
     "sg-sept9.md",
     "language model.md",
