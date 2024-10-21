@@ -35,6 +35,14 @@ title: About these notes
 [[The map and the territory - artificial inelligence being taken as actual intelligence]]
 
 
+## Week 5
+
+[[Theocratic AI Rule]]
+
+[[weel 5 garden and discussion notes]]
+
+[[Free writing 10_07_24 (TO)]]
+
 # Colophon
 
 [[building a site with this template|detailed instructions about building a website with this template]]

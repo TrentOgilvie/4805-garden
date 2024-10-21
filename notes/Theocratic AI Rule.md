@@ -1,3 +1,5 @@
+[[index]]
+
 - How we frame AI and talk about it and the religious undertones that emerge
 - TESCREAL folks applying religious ideologies to AI and surrounding discourse
 	Good/evil, heaven/hell, sin/penance, end of the world/final damnation, etc.
