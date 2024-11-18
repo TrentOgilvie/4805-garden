@@ -10,9 +10,38 @@ title: About these notes
 
 [[Language models can only write poetry - Allison Parish (TO)]]
 
-[[Long_Reading]]
+[[note on karawynn long]]
 
 [[Week 1 Readings - AL]]
+
+## Week 3
+
+[[On LLM-Clip]]
+
+[[What Is ChatGPT Doing… And Why Does it Work - Stephen Wolfram (TO)]]
+
+[[Thought Experiment in the National Library of Thailand - Emily Bender (TO)]]
+
+[[Bender, Haigh, Other Observations (A)]]
+
+## Week 4
+
+[[Free writing 09_30_24 (TO)]]
+
+[[There Was No ‘First AI Winter’ - Thomas Haigh (TO)]]
+
+[[Sept 30 - The Map is not the Territory]]
+
+[[The map and the territory - artificial inelligence being taken as actual intelligence]]
+
+
+## Week 5
+
+[[Theocratic AI Rule]]
+
+[[weel 5 garden and discussion notes]]
+
+[[Free writing 10_07_24 (TO)]]
 
 # Colophon
 
