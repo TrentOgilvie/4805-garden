@@ -3,45 +3,60 @@ title: About these notes
 ---
 # Your Notes
 
-### Week 1
+I used a topic model to index your notes...
 
-[[sg-sept9]]
-### Week 2
+### Topic 1: language model models word words text chatgpt make based human probability meaning produce poetry work probabilities experiment understanding understand neural 
 
-[[Language models can only write poetry - Allison Parish (TO)]]
++ [[Free writing 09_30_24 (TO)]]
++ [[Language models can only write poetry - Allison Parish (TO)]]
++ [[What Is ChatGPT Doing‚Ä¶ And Why Does it Work - Stephen Wolfram (TO)]]
++ [[Week 2 Readings]]
++ [[Thought Experiment in the National Library of Thailand - Emily Bender (TO)]]
++ [[Week 1 Readings - AL.md]]
 
-[[note on karawynn long]]
+### Topic 2: ai people image data create index marginalized project life wwii llm learning thinking blue recognize humans network creates questions including
 
-[[Week 1 Readings - AL]]
++ [[Theocratic AI Rule]]
++ [[11_04_24_ClassNotes (TO)]]
++ [[Week 7 Reading Notes]]
++ [[Week 6 Readings Notes]]
 
-## Week 3
+### Topic 3:  ai computer science library thai research medium thought computers machine military important thailand government money intelligence national concepts information history
 
-[[On LLM-Clip]]
++ [[There Was No ‘First AI Winter’ - Thomas Haigh (TO)]]
++ [[Conjoined Twins Artificial Intelligence and the Invention of Computer Science - Thomas Haigh (TO)]]
++ [[Bender, Haigh, Other Observations (A)]]
 
-[[What Is ChatGPT Doing… And Why Does it Work - Stephen Wolfram (TO)]]
+### Topic 4: images model museum clip specific space networks glam place important similar index situation things thoughts medieval future models ideas football 
 
-[[Thought Experiment in the National Library of Thailand - Emily Bender (TO)]]
++ [[CLIP Experiment Lab Notes (TO)]]
++ [[Project Bestiary]]
++ [[On LLM-Clip]]
+### Topic 5: images python image png code running ran visualization pixplot command notebook google generated people pasted datasets model similar run couldnt
 
-[[Bender, Haigh, Other Observations (A)]]
++ [[Perchance Doesn't Know Mountaineering History]]
++ [[PixPlot_Close_Reading(TO)]]
++ [[Getting PixPlot to work with the GeoCities dataset]]
 
-## Week 4
+### Topic 6: animal evil good horse fox nature world tail man animals bonnacon sort birds lion things mole christ considers body living 
 
-[[Free writing 09_30_24 (TO)]]
++ [[Retraining GPT-2 on a Medieval Bestiary]]
 
-[[There Was No ‘First AI Winter’ - Thomas Haigh (TO)]]
+### Topic 7: thing easy human make technology option decision cost models create created selling ability hard ease bad harmful magic phrases heavily 
 
-[[Sept 30 - The Map is not the Territory]]
++ [[Why can't AI do it itself]]
+### Topic 8: intelligence territory artificial reading index significance map society autocomplete central intellectual heuristic social author life field reference generation computer
 
-[[The map and the territory - artificial inelligence being taken as actual intelligence]]
++ [[Free writing 10_07_24 (TO)]]
++ [[note on karawynn long]]
++ [[The map and the territory - artificial inelligence being taken as actual intelligence]]
++ [[Sept 30 - The Map is not the Territory]]
+### Topic 9: tab future tescreal humanity god knowledge final ideology order ideologies judgement myth religion death mass religious myths
 
++ [[week 5 garden and discussion notes]]
 
-## Week 5
+[[Old Index]]
 
-[[Theocratic AI Rule]]
-
-[[weel 5 garden and discussion notes]]
-
-[[Free writing 10_07_24 (TO)]]
 
 # Colophon
 

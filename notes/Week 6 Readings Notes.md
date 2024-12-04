@@ -1,3 +1,5 @@
+[[index]]
+
 What struck me the most from this weeks readings was the study by Birhane et al., it highlighted  that these models are using datasets that contain a high proportion of sensitive or dangerous content, including violent content. Considering the recent news story of a young teenager killing themselves at the behest of a CharacterAI personality, it seems that people being harmed in real life would almost be the logical consequence of these datasets not being curated as well as they could have, or having the guardrails in place that they should.
 
 Because AI is overwhelmingly used with a capitalist ethos in mind, it seems that AI (LLM's in their current form) and how they are used and created, inherently exploit the proletariat and other marginalized peoples (those with mental health differences, racialized folks, queer folks, etc.). There seems to always be a human cost associated with the development and selling of these models.

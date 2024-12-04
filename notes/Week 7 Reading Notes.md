@@ -1,3 +1,4 @@
+[[index]]
 
 Ai should be used as a supplemental tool, not a full replacement for workers and original human thinking and interaction.
 
